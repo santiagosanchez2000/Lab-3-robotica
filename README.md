@@ -1,7 +1,6 @@
 # Lab-3-robotica
-Desarrollo del laboratorio 3 de robótica, Introducción a ROS
-# Laboratorio 2 - Robótica.
-En este repositorio, se realiza el desarrollo del laboratorio 2 de la asignatura robótica por el profesor: Pedro Fabian Cárdenas Herrera Dr.-Ing. Y el profesor:
+
+En este repositorio, se realiza el desarrollo del laboratorio 3 de la asignatura robótica por el profesor: Pedro Fabian Cárdenas Herrera Dr.-Ing. Y el profesor:
 Msc-Ing. Jhoan Sebastián Rodríguez Rodríguez
 
 ### Integrantes:
