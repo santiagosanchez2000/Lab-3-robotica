@@ -1,6 +1,21 @@
 # Lab-3-robotica
 Desarrollo del laboratorio 3 de robótica, Introducción a ROS
+# Laboratorio 2 - Robótica.
+En este repositorio, se realiza el desarrollo del laboratorio 2 de la asignatura robótica por el profesor: Pedro Fabian Cárdenas Herrera Dr.-Ing. Y el profesor:
+Msc-Ing. Jhoan Sebastián Rodríguez Rodríguez
 
+### Integrantes:
+- Julián Felipe Medina Veira <jmedinave@unal.edu.co>
+- Santiago Andrés Gómez Pena <sagomezpe@unal.edu.co>
+- Santiago Dleon Sánchez Romero <ssanchezro@unal.edu.co>
+
+#### Introducción:
+El laboratorio tiene como objetivo general el adecuar diversas rutinas de movimiento con un mayor uso de rutinas de rapid y del uso de entradas y de salidas
+
+#### Descripción:
+En esta práctica se desarrollarán 2 ejes temáticos:
+- **Programación intermedia de rapid:** Se busca ahondar en el lenguaje de programación rapid mediante la implementación de condicionales y bucles para acelerar el desarrollo de código.
+- **Manejo del módulo de entradas y salidas:** Se realizara la comunicación necesaria con el controlador para accionar rutinas de movimiento predefinidas mediante el uso de pulsadores.
 ## Sección A:
 ### Metodología y Resultados
 Empleando como guía el artículo compartido (http://www.informit.com/blogs/blog.aspx?uk=The-10-Most-Important-Linux-Commands), comenzamos a explorar el uso del terminal en Linux, en este caso Ubuntu corriendo distintos comando en una variante del terminal instalada llamada Kitty:
