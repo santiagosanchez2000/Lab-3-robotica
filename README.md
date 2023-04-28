@@ -17,9 +17,14 @@ Empleando como guía el artículo compartido (http://www.informit.com/blogs/blog
  
 Aquí podemos ver el resultado de correr cada uno de estos comandos en orden:
 ![Screenshot from 2022-04-07 18-42-22](https://github.com/santiagosanchez2000/Lab-3-robotica/blob/main/imagen%20de%20comandos%201.png)
+
 Y el manual de usuario resultante al llamar `man rm`:
 ![Screenshot from 2022-04-07 18-42-11](https://github.com/santiagosanchez2000/Lab-3-robotica/blob/main/imagen%20de%20comandos%202.png)
 
+
+## Sección B:
+
+## Sección C:
 
 <p><strong>Explicaci&oacute;n c&oacute;digo usado.</strong></p>
 
