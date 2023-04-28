@@ -12,9 +12,7 @@ Msc-Ing. Jhoan Sebastián Rodríguez Rodríguez
 El laboratorio tiene como objetivo general el adecuar diversas rutinas de movimiento con un mayor uso de rutinas de rapid y del uso de entradas y de salidas
 
 #### Descripción:
-En esta práctica se desarrollarán 2 ejes temáticos:
-- **Programación intermedia de rapid:** Se busca ahondar en el lenguaje de programación rapid mediante la implementación de condicionales y bucles para acelerar el desarrollo de código.
-- **Manejo del módulo de entradas y salidas:** Se realizara la comunicación necesaria con el controlador para accionar rutinas de movimiento predefinidas mediante el uso de pulsadores.
+
 ## Sección A:
 ### Metodología y Resultados
 Empleando como guía el artículo compartido (http://www.informit.com/blogs/blog.aspx?uk=The-10-Most-Important-Linux-Commands), comenzamos a explorar el uso del terminal en Linux, en este caso Ubuntu corriendo distintos comando en una variante del terminal instalada llamada Kitty:
