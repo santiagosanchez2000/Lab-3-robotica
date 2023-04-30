@@ -44,9 +44,9 @@ Como se puede observar, el terminal de comandos es una gran herramienta para mov
 
 Explicación del codigo usado.
 
-<p><strong>Video de &nbsp;demostraci&oacute;n del laboratorio.</strong></p>
-<p>En el siguiente video se realiza la demostraci&oacute;n de los movimientos que se lograron de la tortuga usando las teclas indicadas.</p>
+#### Video de  demostración del laboratorio.
 
+En el siguiente video se realiza la demostración de los movimientos que se lograron de la tortuga usando las teclas indicadas.
 https://github.com/santiagosanchez2000/Lab-3-robotica/blob/main/Video_imovimiento_tortuga.mp4
 
 ## Conclusiones:
