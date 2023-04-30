@@ -35,9 +35,9 @@ Y el manual de usuario resultante al llamar `man rm`:
 
 ### Análisis
 Como se puede observar, el terminal de comandos es una gran herramienta para moverse por el sistema de archivos del sistema, y así mismo generar los cambios y modificaciones necesarios de manera ágil. Adicionalemente hay que tener en cuenta el tema de permisos, para lo cual podemos usar el comando prefijo `sudo` y correr el comando que le sigue con permisos de administrador, permitiendo realizar acciones que no serían posibles de otra manera como la eliminación de archivos protegidos o la vista de ciertos archivos ocultos.
-## Sección B:
 
-## Sección C:
+
+## Sección B:
 
 <p><strong>Explicaci&oacute;n c&oacute;digo usado.</strong></p>
 
