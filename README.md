@@ -9,9 +9,12 @@ Msc-Ing. Jhoan Sebastián Rodríguez Rodríguez
 - Santiago Dleon Sánchez Romero <ssanchezro@unal.edu.co>
 
 #### Introducción:
-El laboratorio tiene como objetivo general el adecuar diversas rutinas de movimiento con un mayor uso de rutinas de rapid y del uso de entradas y de salidas
+El laboratorio tiene como objetivo general realizar una introducción al menejo de ROS y Matlab en el sistema operativo de Linux mediante el uso de nodos y librerias que permiten la cominucacion entre terminales y el uso de teclas para determinadas funciones,
 
 #### Descripción:
+- Se realiza una introduccion basica de los comandos de utilidad en Linux.
+- Se establece comunicación entre ROS y Matlab 
+- Se diseña un codigo para el movimiento de la tortuga con las teclas A,S,D,W,R, ESPACIO.
 
 ## Sección A:
 ### Metodología y Resultados
