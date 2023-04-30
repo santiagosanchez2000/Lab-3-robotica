@@ -43,6 +43,7 @@ Como se puede observar, el terminal de comandos es una gran herramienta para mov
 ## Sección B:
 
 Explicación del codigo usado.
+https://github.com/santiagosanchez2000/Lab-3-robotica/blob/main/PRACTICA%20ROS.jpg?raw=true
 
 #### Video de  demostración del laboratorio.
 
