@@ -42,7 +42,7 @@ Como se puede observar, el terminal de comandos es una gran herramienta para mov
 
 ## Sección B:
 
-<p><strong>Explicaci&oacute;n c&oacute;digo usado.</strong></p>
+Explicación del codigo usado.
 
 <p><strong>Video de &nbsp;demostraci&oacute;n del laboratorio.</strong></p>
 <p>En el siguiente video se realiza la demostraci&oacute;n de los movimientos que se lograron de la tortuga usando las teclas indicadas.</p>
