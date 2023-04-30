@@ -48,7 +48,7 @@ Explicación del <a href="https://github.com/santiagosanchez2000/Lab-3-robotica/
 #### Video de  demostración del laboratorio.
 
 En el siguiente video se realiza la demostración de los movimientos que se lograron de la tortuga usando las teclas indicadas.
-https://github.com/santiagosanchez2000/Lab-3-robotica/blob/main/Video_imovimiento_tortuga.mp4?raw=true
+!(Video demostracioón)[https://github.com/santiagosanchez2000/Lab-3-robotica/blob/main/Video_imovimiento_tortuga.mp4?raw=true]
 
 ## Conclusiones:
 - El terminal es una herramienta extremadamente útil para manejar el sistema de archivos, además de tener ciertas capacidades que no son posible de alcanzar mediante las alternativas con GUI.
