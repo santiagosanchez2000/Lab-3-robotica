@@ -31,10 +31,10 @@ Empleando como guía el artículo compartido (http://www.informit.com/blogs/blog
 10. `man`. El comando más útil si se desea revisar información adicional de un comando, muestra el manual del comando que especifiquemos.
  
 Aquí podemos ver el resultado de correr cada uno de estos comandos en orden:
-![Screenshot from 2022-04-07 18-42-22](https://github.com/santiagosanchez2000/Lab-3-robotica/blob/main/imagen%20de%20comandos%201.png)
+![Conexion0](https://github.com/santiagosanchez2000/Lab-3-robotica/blob/main/imagen%20de%20comandos%201.png)
 
 Y el manual de usuario resultante al llamar `man rm`:
-![Screenshot from 2022-04-07 18-42-11](https://github.com/santiagosanchez2000/Lab-3-robotica/blob/main/imagen%20de%20comandos%202.png)
+![Conexion1](https://github.com/santiagosanchez2000/Lab-3-robotica/blob/main/imagen%20de%20comandos%202.png)
 
 ### Análisis
 Como se puede observar, el terminal de comandos es una gran herramienta para moverse por el sistema de archivos del sistema, y así mismo generar los cambios y modificaciones necesarios de manera ágil. Adicionalemente hay que tener en cuenta el tema de permisos, para lo cual podemos usar el comando prefijo `sudo` y correr el comando que le sigue con permisos de administrador, permitiendo realizar acciones que no serían posibles de otra manera como la eliminación de archivos protegidos o la vista de ciertos archivos ocultos.
@@ -43,12 +43,12 @@ Como se puede observar, el terminal de comandos es una gran herramienta para mov
 ## Sección B:
 
 Explicación del codigo usado.
-https://github.com/santiagosanchez2000/Lab-3-robotica/blob/main/PRACTICA%20ROS.jpg?raw=true
+![Conexion2](https://github.com/santiagosanchez2000/Lab-3-robotica/blob/main/PRACTICA%20ROS.jpg?raw=true)
 
 #### Video de  demostración del laboratorio.
 
 En el siguiente video se realiza la demostración de los movimientos que se lograron de la tortuga usando las teclas indicadas.
-https://github.com/santiagosanchez2000/Lab-3-robotica/blob/main/Video_imovimiento_tortuga.mp4
+![video1](https://github.com/santiagosanchez2000/Lab-3-robotica/blob/main/Video_imovimiento_tortuga.mp4)
 
 ## Conclusiones:
 - El terminal es una herramienta extremadamente útil para manejar el sistema de archivos, además de tener ciertas capacidades que no son posible de alcanzar mediante las alternativas con GUI.
