@@ -44,7 +44,7 @@ Como se puede observar, el terminal de comandos es una gran herramienta para mov
 <p><strong>Video de &nbsp;demostraci&oacute;n del laboratorio.</strong></p>
 <p>En el siguiente video se realiza la demostraci&oacute;n de los movimientos que se lograron de la tortuga usando las teclas indicadas.</p>
 
-https://github.com/santiagosanchez2000/Lab-3-robotica/blob/main/Video_imovimiento_tortuga.mkv
+https://github.com/santiagosanchez2000/Lab-3-robotica/blob/main/Video_imovimiento_tortuga.mp4
 
 ## Conclusiones:
 - El terminal es una herramienta extremadamente útil para manejar el sistema de archivos, además de tener ciertas capacidades que no son posible de alcanzar mediante las alternativas con GUI.
